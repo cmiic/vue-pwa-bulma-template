@@ -1,4 +1,6 @@
-<script setup></script>
+<script setup>
+import HelloComp from '@/components/HelloComp.vue'
+</script>
 
 <template>
   <main>
