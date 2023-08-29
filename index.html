@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="icon" href="/favicon.ico">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <link rel="icon" href="@assets/img/icon-small.png" sizes="201x201">
+  <link rel="apple-touch-icon" href="@assets/img/icon-large.png">
+  <title>Vue with Bulma and PWA stub</title>
+</head>
+
+<body class="has-navbar-fixed-top">
+  <div id="app"></div>
+  <script type="module" src="/src/main.js"></script>
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/vue-pwa-bulma-template/sw.js')
+    }
+  </script>
+</body>
+
+</html>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ebene_2" data-name="Ebene 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100.25 100.25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #1d1d1b;
+        stroke-miterlimit: 10;
+        stroke-width: .25px;
+      }
+
+      .cls-2 {
+        fill: #009fe3;
+        opacity: .25;
+      }
+    </style>
+  </defs>
+  <g id="Ebene_1-2" data-name="Ebene 1">
+    <g>
+      <ellipse class="cls-2" cx="49.86" cy="40.33" rx="24.73" ry="45.81" transform="translate(-14.09 35.58) rotate(-34.72)"/>
+      <ellipse class="cls-2" cx="49.86" cy="40.33" rx="45.81" ry="24.73" transform="translate(-11.69 58.34) rotate(-55.28)"/>
+      <ellipse class="cls-2" cx="33.2" cy="59.92" rx="24.73" ry="45.81" transform="translate(-28.22 29.58) rotate(-34.72)"/>
+      <ellipse class="cls-2" cx="67.05" cy="59.92" rx="45.81" ry="24.73" transform="translate(-20.39 80.9) rotate(-55.28)"/>
+      <ellipse class="cls-1" cx="49.86" cy="40.33" rx="24.73" ry="45.81" transform="translate(-14.09 35.58) rotate(-34.72)"/>
+      <ellipse class="cls-1" cx="49.86" cy="40.33" rx="45.81" ry="24.73" transform="translate(-11.69 58.34) rotate(-55.28)"/>
+      <ellipse class="cls-1" cx="33.2" cy="59.92" rx="24.73" ry="45.81" transform="translate(-28.22 29.58) rotate(-34.72)"/>
+      <ellipse class="cls-1" cx="67.05" cy="59.92" rx="45.81" ry="24.73" transform="translate(-20.39 80.9) rotate(-55.28)"/>
+    </g>
+  </g>
+</svg>
