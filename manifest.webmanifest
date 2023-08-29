@@ -1,0 +1,22 @@
+{
+    "name": "PWA Template with Vue and Bulma",
+    "short_name": "PWA Template",
+    "scope": "/vue-pwa-bulma-template/",
+    "id": "vue-pwa-bulma-template",
+    "start_url": "/vue-pwa-bulma-template/index.html",
+    "display": "fullscreen",
+    "background_color": "#0000ff",
+    "orientation": "portrait",
+    "icons": [
+      {
+        "src": "/vue-pwa-bulma-template/img/icon-large.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "/vue-pwa-bulma-template/img/icon-small.png",
+        "sizes": "201x201",
+        "type": "image/png"
+      }
+    ]
+  }
