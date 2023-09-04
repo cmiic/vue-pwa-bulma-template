@@ -1,17 +1,26 @@
 {
+  "git.autofetch": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
   "editor.codeActionsOnSave": {
+    "source.formatDocument": true,
     "source.fixAll.eslint": true
   },
-  "eslint.validate": ["vue", "html", "javascript"],
-  "eslint.alwaysShowStatus": true,
+  "eslint.validate": [
+    "vue",
+    "html",
+    "javascript"
+  ],
   "eslint.format.enable": true,
-  "prettier.singleQuote": true,
-  "prettier.trailingComma": "none",
-  "prettier.semi": false,
-  "prettier.bracketSameLine": true,
   "emmet.includeLanguages": {
     "javascript": "javascriptreact",
     "vue-html": "html"
   }
-  
 }

@@ -1,7 +1,7 @@
 <script setup>
-import MainNav from "./MainNav.vue";
-import { ref } from "vue";
-const menuActive = ref(false);
+import MainNav from './MainNav.vue'
+import { ref } from 'vue'
+const menuActive = ref(false)
 
 </script>
 
@@ -11,9 +11,16 @@ const menuActive = ref(false);
       <div class="container is-justify-content-space-between">
         <div class="navbar-brand">
           <figure class="">
-            <a href="#" class="navbar-item">
-              <img src="@/assets/logo.svg" alt="Logo" class="logo" />
-              
+            <a
+              href="#"
+              class="navbar-item"
+            >
+              <img
+                src="@/assets/logo.svg"
+                alt="Logo"
+                class="logo"
+              >
+
             </a>
           </figure>
           <a
