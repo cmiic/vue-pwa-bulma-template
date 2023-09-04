@@ -5,7 +5,7 @@ import PageHeader from './components/PageHeader.vue'
 
 <template>
   <section class="hero is-light is-fullheight">
-    <PageHeader :user="user" />
+    <PageHeader />
     <div class="hero-body">
       <div class="container">
         <RouterView />
