@@ -1,0 +1,1 @@
+import{_ as s,o as t,c as o,a as e}from"./index-2b1ffb69.js";const c={},a={class:"box"},_=e("h2",{class:"is-size-4"}," Vue PWA Bulma Template ",-1),n=e("p",null,"Copyright 2023, Christoph Stadlbauer",-1),r=[_,n];function i(l,d){return t(),o("div",a,r)}const p=s(c,[["render",i]]);export{p as default};
