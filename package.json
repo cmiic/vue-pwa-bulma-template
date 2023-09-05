@@ -9,8 +9,7 @@
     "preview": "vite preview",
     "predeploy": "npm run build && cp -a ./dist/index.html ./dist/404.html",
     "deploy": "gh-pages -d dist",
-    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore",
-    "format": "prettier --write src/"
+    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
   },
   "dependencies": {
     "bulma": "^0.9.4",
